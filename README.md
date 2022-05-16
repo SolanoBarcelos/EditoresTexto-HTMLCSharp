@@ -10,7 +10,7 @@
 
 <br>
 
-#### Editor HTML - Conceitos utilizados:
+#### Editor de Textos - Aplicação pra Criar, Salvar e abrir Arquivos .txt - Conceitos utilizados:
 
 -
 
