@@ -2,9 +2,10 @@
 
 ## Repositório com dois exercícios, Editor de Textos e Editor HTML
 
-#### Editor de Textos - Aplicação pra Criar, Salvar e abrir Arquivos .txt - Conceitos utilizados:
+#### Editor de Textos - Aplicação pra Criar, Salvar e Abrir arquivos .txt - Conceitos utilizados:
 
 - using System.IO;
+- StreamReader()
 - StreamWriter()
 - File.ReadToEnd()
 
