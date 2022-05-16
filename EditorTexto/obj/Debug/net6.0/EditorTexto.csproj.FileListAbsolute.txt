@@ -1,0 +1,15 @@
+C:\Users\solan\Desktop\EstudosC#\Editores\EditorTexto\bin\Debug\net6.0\EditorTexto.exe
+C:\Users\solan\Desktop\EstudosC#\Editores\EditorTexto\bin\Debug\net6.0\EditorTexto.deps.json
+C:\Users\solan\Desktop\EstudosC#\Editores\EditorTexto\bin\Debug\net6.0\EditorTexto.runtimeconfig.json
+C:\Users\solan\Desktop\EstudosC#\Editores\EditorTexto\bin\Debug\net6.0\EditorTexto.dll
+C:\Users\solan\Desktop\EstudosC#\Editores\EditorTexto\bin\Debug\net6.0\EditorTexto.pdb
+C:\Users\solan\Desktop\EstudosC#\Editores\EditorTexto\obj\Debug\net6.0\EditorTexto.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\EstudosC#\Editores\EditorTexto\obj\Debug\net6.0\EditorTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\EstudosC#\Editores\EditorTexto\obj\Debug\net6.0\EditorTexto.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\EstudosC#\Editores\EditorTexto\obj\Debug\net6.0\EditorTexto.AssemblyInfo.cs
+C:\Users\solan\Desktop\EstudosC#\Editores\EditorTexto\obj\Debug\net6.0\EditorTexto.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\EstudosC#\Editores\EditorTexto\obj\Debug\net6.0\EditorTexto.dll
+C:\Users\solan\Desktop\EstudosC#\Editores\EditorTexto\obj\Debug\net6.0\refint\EditorTexto.dll
+C:\Users\solan\Desktop\EstudosC#\Editores\EditorTexto\obj\Debug\net6.0\EditorTexto.pdb
+C:\Users\solan\Desktop\EstudosC#\Editores\EditorTexto\obj\Debug\net6.0\EditorTexto.genruntimeconfig.cache
+C:\Users\solan\Desktop\EstudosC#\Editores\EditorTexto\obj\Debug\net6.0\ref\EditorTexto.dll
