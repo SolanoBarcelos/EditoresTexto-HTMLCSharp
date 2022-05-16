@@ -1,4 +1,4 @@
-# Calculadora em C#
+# Editores de Textos e HTML
 
 ## Repositório com dois exercícios, Editor de Textos e Editor HTML
 
