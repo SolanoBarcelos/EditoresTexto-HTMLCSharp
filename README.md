@@ -11,7 +11,7 @@
 
 <br>
 
-#### Editor HTML - Conceitos utilizados:
+#### Editor de HTML - Conceitos utilizados:
 
 -
 
