@@ -80,8 +80,8 @@ public static class Menu
     {
         switch(option)
         {
-            case 1: Console.WriteLine("Editor"); break;
-            case 2: Console.WriteLine("View"); break;
+            case 1: Editor.Show(); break;
+            case 2: Viewer.Abrir(); break;
             case 3:
             {
              Console.Clear(); 
@@ -90,6 +90,7 @@ public static class Menu
             } 
 
             default: Show(); break; 
+
         }
 
     }
